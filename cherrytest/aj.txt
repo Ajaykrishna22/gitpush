@@ -4,9 +4,4 @@ Ajay is hero -1
 Ajay is hero -2
 
 
-Ajay is villain -1
-
-
-ajay is villain -2
-
 
